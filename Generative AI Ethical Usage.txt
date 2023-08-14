@@ -1,0 +1,20 @@
+Generative AI: Ethical Usage Considerations
+
+What is the 'ethical usage' of a state-of-the-art generative AI model?
+- An 'ethical usage' is a very interesting question, particularly when it comes to something that is not only a product itself, but also creates. In some ways it comes down to the question of if the creator is responsible for the actions of the creations? If I have this wonderful Generative AI model am I then responsible for everything it creates? Even if I allow others to use it an create more things with it? Who has the ethical responsibility for what is created? Is it the creator of the model or the person who uses it to create things? If I sell the program to someone and they use it to create a story or design an item do I own the story/item or does the person who prompted the model?
+- to be ethical I would say that the model would not be able to directly cause harm to another, but can a model truely be able to cause harm without a human? Generally I would say that is impossible for a model, by itself to cause harm. If so, does the responsibility not lie with the prompter?
+- to use a model ethically, to me the criteria becomes the intentions and end result of what the media created by the model is used to do. Lets say the model is used to create a deepfake of a child that recently died of cancer. By itself, that is not a problem. The real question is what is the product then used for: if it is to immortalize the child for their family or to, with the family's consent, promote cancer research I would say that that is ethical usage of the model. However, if it used for unsavory purposes or without the family's consent then it becomes unethical.
+- like many things I believe that Generative AI models are tools and are neither ethical or unethical, non-withstanding copyright, bias, or personal privacy issues, rather the usage of anything created can only be judged by general ethical guidelines. Ultimately ethics is a deeply personal question that differs from one person to another. Making deepfakes or copying someone's writing might be unethical to some but ethical to others, after all so long as the model is not actually using the material is it really hurting someone else? Or maybe you need to write a speech or design a product and you use the model to suggest ideas or give help, but unknown to you the model copies someone else's ideas and then you use it. I would say that the usage is ethical by you because you did not know while to another person it would be unethical because they knowingly copied the information.
+
+Identify three potential risks or ethical dilemmas that could arise from misue of this AI.
+- copyright problems; does the prompter own the results or does the designer of the model?
+- can the model be used to generate as many possibilities as is reasonable and then copyright them by basis of brute force? How is that fair to others?
+- if the model is using open-sourced data to create its responses then it runs the risk that it will use data that is inaccurate or incomplete. 
+	To get a good model how much data is really needed? To eliminate bias should the public, governments, or other companies provide any data the 	model might need
+- just because you post something on social media or a web forum, does that mean that companies have the right to take that data and use it? What about pictures?
+- how will people know if the articles, pictures, videos, or stories are made by humans using AI or without?
+
+Propose specific measures to mitigate these risks:
+- a change in law is needed to confirm if the model creator owns the creation or if the user owns the creation
+- reasonable limits on copyright and a definition of what is public domain and thus unable to be copyrighted is needed
+- I would suggest that anything created by a AI generative model be required to include some, indelible, metadata or indication that it was created by an AI model
