@@ -1,0 +1,32 @@
+Generative AI: Prompt Variety
+
+1. Design the Prompts: Create a set of 5 prompts related to the same general topic (e.g.,
+climate change). Make sure each prompt has a different structure and style. You could use
+a question, a statement, an incomplete sentence, a debate statement, etc.
+- what are some of issues surrounding the Gun Control debate in the US?
+- Detail why gun control is bad
+- Gun Control; why are idiots against it
+- gun control issues
+- Please give me the arguments both for and against Gun Control
+
+2. Invoke the AI: Use each of these prompts to generate responses from a Generative AI
+model.
+- see chat logs
+
+3. Analyze the responses: Discuss how the output varies based on the style and specificity of
+the prompts. Identify any significant differences in the tonality, content, depth of detail,
+etc.
+- the output does vary some, but I noticed that it tended to stress that there are arguments on both sides of the debate and that it tries to take a fairly balanced view of the issues. In terms of style I don't really see much difference since all prompts give me lists of the concerns/questions I asked about. the tone and depth of detail are also very simillar overall and the model presents the results as possibilities and people having concerns or idea; significantly hedging its analysis without outright saying its stance or if something is bad or good. There was some variation on content but I think that was based more on how I worded my prompts than any inherent limitations of the system.
+
+4. Refactor the prompts: Based on the initial results, modify the prompts to make them more
+precise, ambiguous, formal, or casual. Run these new prompts through the AI model again.
+- I tried to redo the prompts to make the answers more precise:
+- What are some of the specific issues and problems surrounding the Gun Control debate in the US?
+- Give the details and reasoning for why gun control is a bad idea
+- explain the arguments against Gun Control and the statistics/facts behind those arguments
+- give the issues around gun control and specify why they are issues
+- Please detail the arguments and responses for both sides of the gun control issue
+ 
+5. Compare the results: How do the new responses compare with the initial ones? Did
+changing the prompt in the way you did yield the expected changes in the output?
+- The new responses did give a bit more detail, but not really as much as I was expecting. However, when I changed the prompts to ask for specific information, like the reasoning and statistics/facts, they were included to try to validate or give more information. Overall, I feel like the prompts I had used originally were already fairly detailed and I didn't really get much more information or discussion about the issues from the attempt to make them prompts request more details
