@@ -1,0 +1,68 @@
+Generative AI: Iterative Honing
+
+1. Define a base prompt or question, e.g.,"Describe the process of photosynthesis."
+How can I use a VPN to hide my internet traffic?
+
+2. Use GPT-3.5 to generate a response. Save the generated text for the next step.
+
+Using a VPN (Virtual Private Network) can help you hide your internet traffic and enhance your online privacy. Here's a step-by-step guide on how to use a VPN to achieve this:
+
+1. **Choose a Reliable VPN Service:**
+   Research and select a reputable VPN provider that offers a good balance between privacy, security, speed, and server locations. Some popular options include NordVPN, ExpressVPN, CyberGhost, and Private Internet Access (PIA).
+
+2. **Sign Up and Subscribe:**
+   Visit the VPN provider's website and sign up for an account. Choose a subscription plan that suits your needs. Typically, longer subscription plans offer better value for money.
+
+3. **Download and Install the VPN App:**
+   After signing up, you'll usually be directed to download the VPN app. Install the app on your device. Most VPN providers offer apps for various platforms, including Windows, macOS, iOS, Android, and sometimes even routers.
+
+4. **Launch the App and Log In:**
+   Open the VPN app and log in using the credentials you created during the sign-up process.
+
+5. **Select a Server:**
+   Once logged in, you'll be presented with a list of server locations. Choose a server from a location of your choice. The closer the server is to your physical location, the faster your connection speed will generally be. However, if you're aiming for enhanced privacy, consider connecting to a server in a different country.
+
+6. **Connect to the VPN Server:**
+   Click the "Connect" button within the app to establish a connection to the selected VPN server. The app will handle the connection process.
+
+7. **Verify Connection:**
+   Once connected, the VPN app should display a message indicating your connection status. You might also notice a change in your IP address, which is a sign that your internet traffic is now being routed through the VPN server.
+
+8. **Browse Anonymously:**
+   With the VPN connection active, your internet traffic is encrypted and routed through the VPN server. This makes your online activities more private and secure, as your ISP (Internet Service Provider) and other entities won't be able to easily monitor your activities.
+
+9. **Disconnect When Not Needed:**
+   When you're done using the VPN, you can disconnect from the server using the VPN app. Some VPN apps also offer options to automatically connect when you're on unsecured networks or launch on startup.
+
+10. **Customize Settings (Optional):**
+    Explore the settings within the VPN app to see if there are any additional features you'd like to enable or configure, such as a kill switch (which disconnects your internet if the VPN connection drops), split tunneling (which lets you choose which apps use the VPN), and more.
+
+Remember that while a VPN can significantly enhance your online privacy and security, it's not a complete solution. It's still important to practice good internet hygiene, such as using strong, unique passwords, enabling two-factor authentication, and being cautious when clicking on links or downloading files from untrusted sources.
+
+3. Formulate a follow-up question based on the generated text, e.g.,"What's the role of
+sunlight in photosynthesis?"
+
+What VPN would you suggest for complete anonymity?
+- see chat logs
+
+4. Repeat steps 2 and 3 with each new question building on the previous response. Do this for
+at least 5 rounds of conversation. The objective is to create a back-and-forth discussion
+that simulates a real conversation.
+
+if you had to choose one, which would be best based on privacy and expense?
+
+how much does NordVPN cost?
+
+are there free alternatives you would recommend?
+
+what are some other options to be anonymous on the internet?
+
+5. Document each step of the process, noting the base prompt, the generated text, and the
+follow-up question.
+
+- see chat logs
+
+6. Analyze the conversation. Do the responses stay on topic? How does the model handle the
+growing context? Do the responses become less accurate as the conversation progresses?
+What strategies can be used to improve the continuity and context understanding?
+Generally I think that the model does very well, however I am unsure that it is really handling growing context. My questions could probably have been given individually and I would have gotten much the same results. Perhaps I just need to use a topic that the questions relied on the previous responses rather than my topic where the new questions I had could be independent, mostly, of each other. That said, I do feel like the results were accurate even with the later questions but they were perhaps a bit vague. As far as improving continuity, I suppose that using phrases like "in light of the previous answer" or "because of that" or others that reference the previous answers and ask the model to evaluate and comment on them would make the model enforce some continuity.
